@@ -6,7 +6,7 @@ lab 0
 Jeff
 ### Links and Resources
 * [heroku](https://glacial-lowlands-12441.herokuapp.com/)
-* [submission PR](https://github.com/jeff-401-js/lab-0/pull/3)
+* [submission PR](https://github.com/jeff-401-js/lab-0/pull/5)
 * [travis](https://travis-ci.com/jeff-401-js/lab-0)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
