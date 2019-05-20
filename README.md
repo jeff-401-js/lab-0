@@ -5,7 +5,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [heroku](https://glacial-lowlands-12441.herokuapp.com/)
+* [submission PR](https://github.com/jeff-401-js/lab-0/pull/3)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
