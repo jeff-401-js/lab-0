@@ -1,12 +1,13 @@
 # LAB - 
 
 ## Project Name
-
+lab 0
 ### Author: Student/Group Name
-
+Jeff
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [heroku](https://glacial-lowlands-12441.herokuapp.com/)
+* [submission PR](https://github.com/jeff-401-js/lab-0/pull/5)
+* [travis](https://travis-ci.com/jeff-401-js/lab-0)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
